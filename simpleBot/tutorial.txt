@@ -1,0 +1,16 @@
+1. Installing
+
+Ubuntu 16.04 or newer
+Install pip (a tool for installing and managing Python packages)
+$ sudo apt-get update
+$ sudo apt-get install python-pip
+Install flash (a web application framework)
+Download the lastest version here (whl file): https://pypi.python.org/pypi/Flask/0.12
+$ pip install < flash_package >.whl
+Install requests (a http library for Python)
+$ pip install requests
+Install gunicorn (a http server for Unix)
+$ pip install gunicorn
+2. Setting
+
+      to be updated ... 
